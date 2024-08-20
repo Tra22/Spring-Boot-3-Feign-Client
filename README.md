@@ -67,4 +67,8 @@ You will need:
 Clone the project and use Maven to build the server
 
 	$ mvn clean install
+
+ ## Swagger URL
+
+ 	http://localhost:8080/swagger-ui/index.html
 	
